@@ -51,7 +51,7 @@ const docs = `
   </p>
   <p>
     To add a package send a pull request to
-    <code>https://github.com/denoland/registry/blob/master/x/database.json</code>
+    <code>https://github.com/denoland/registry/blob/master/src/database.json</code>
   </p>
 `;
 
